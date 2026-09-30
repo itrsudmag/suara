@@ -1,0 +1,6 @@
+{
+  "name": "SUARA RSUD Majenang - Sistem Utama Audio Rumah Sakit",
+  "description": "Sistem Utama Audio Rumah Sakit (SUARA) RSUD Majenang: Generator pengumuman suara resmi, 5 kode kegawatdaruratan (Code Red, Blue, Pink, Black, Grey), serta jadwal sholat dan pemutaran adzan otomatis Kemenag.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
